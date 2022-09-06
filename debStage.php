@@ -21,8 +21,8 @@
             <div class="container bg-white pt-5">
                 <div class="row px-3 pb-5">
                     <div class="col-md-12">
-                        <h2 class="mb-4 font-weight-bold">Mes parcours</h2>
-                        <img class="img-fluid float-left w-50 mr-4 mb-3" src="img\project-steps-slide3.jpg" alt="Image">
+                        <h2 class="mb-4 font-weight-bold">Stage</h2>
+                        <img class="img-fluid float-left w-50 mr-4 mb-3" src="img\Business-deal-handshake.webp" alt="Image">
                         <p class="m-0">
                             Mon debut de parcours chez PARIS YNOV CAMPUS a commencé en fin 2020 tant qu'un étudiant en informatique et pendant ces deux années chez eux j'ai monté en compétences dans plusieurs langages comme python,PHP,Java,Javascript,C#,C++,MySQL,...
                         </p>

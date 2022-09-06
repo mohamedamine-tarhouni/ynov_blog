@@ -19,7 +19,6 @@
                             <h3 class="mt-md-4 px-md-3 mb-2 py-2 bg-white font-weight-bold">Mes parcours</h3>
                             <div class="d-flex mb-3">
                                 <small class="mr-2 text-muted"><i class="fa fa-calendar-alt"></i> 2021/2022</small>
-                                <small class="mr-2 text-muted"><i class="fa fa-folder"></i> Informatique</small>
 
                             </div>
                             <p>
@@ -30,19 +29,18 @@
                     </div>
                     <div class="row blog-item px-3 pb-5">
                         <div class="col-md-5">
-                            <img class="img-fluid mb-4 mb-md-0" src="img\project-steps-slide3.jpg" alt="Image">
+                            <img class="img-fluid mb-4 mb-md-0" src="img\Business-deal-handshake.webp" alt="Image">
                         </div>
                         <div class="col-md-7">
-                            <h3 class="mt-md-4 px-md-3 mb-2 py-2 bg-white font-weight-bold">Lorem ipsum dolor sit amet</h3>
+                            <h3 class="mt-md-4 px-md-3 mb-2 py-2 bg-white font-weight-bold">Debut stage</h3>
                             <div class="d-flex mb-3">
-                                <small class="mr-2 text-muted"><i class="fa fa-calendar-alt"></i> 01-Jan-2045</small>
-                                <small class="mr-2 text-muted"><i class="fa fa-folder"></i> Web Design</small>
+                                <small class="mr-2 text-muted"><i class="fa fa-calendar-alt"></i> Juin 2022</small>d
 
                             </div>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu suscipit orci velit id libero
+                                Quand j'ai trouvé mon stage
                             </p>
-                            <a class="btn btn-link p-0" href="">Read More <i class="fa fa-angle-right"></i></a>
+                            <a class="btn btn-link p-0" href="debStage.php">Read More <i class="fa fa-angle-right"></i></a>
                         </div>
                     </div>
                     <div class="row blog-item px-3 pb-5">
