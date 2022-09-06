@@ -55,7 +55,22 @@
                             <p>
                                 l'entreprise avec laquelle j'ai fait mon stage
                             </p>
-                            <a class="btn btn-link p-0" href="debStage.php">Read More <i class="fa fa-angle-right"></i></a>
+                            <a class="btn btn-link p-0" href="decisys_consulting.php">Read More <i class="fa fa-angle-right"></i></a>
+                        </div>
+                    </div>
+                    <div class="row blog-item px-3 pb-5">
+                        <div class="col-md-5">
+                            <img class="img-fluid mb-4 mb-md-0" src="img\Shared-Task-List-Featured.webp" alt="Image">
+                        </div>
+                        <div class="col-md-7">
+                            <h3 class="mt-md-4 px-md-3 mb-2 py-2 bg-white font-weight-bold">Mes missions</h3>
+                            <div class="d-flex mb-3">
+
+                            </div>
+                            <p>
+                                l'entreprise avec laquelle j'ai fait mon stage
+                            </p>
+                            <a class="btn btn-link p-0" href="tasks.php">Read More <i class="fa fa-angle-right"></i></a>
                         </div>
                     </div>
                     
