@@ -21,22 +21,32 @@
             <div class="container bg-white pt-5">
                 <div class="row px-3 pb-5">
                     <div class="col-md-12">
-                        <h2 class="mb-4 font-weight-bold">Stage</h2>
+                        <h2 class="mb-4 font-weight-bold">debut de Stage</h2>
                         <img class="img-fluid float-left w-50 mr-4 mb-3" src="img\Business-deal-handshake.webp" alt="Image">
                         <p class="m-0">
-                            Mon debut de parcours chez PARIS YNOV CAMPUS a commencé en fin 2020 tant qu'un étudiant en informatique et pendant ces deux années chez eux j'ai monté en compétences dans plusieurs langages comme python,PHP,Java,Javascript,C#,C++,MySQL,...
+                            Pendant mes études j'ai réalisé plusieurs projets mais j'ai voulu réaliser des projets dans un environement professionel et apprendre des nouveaux choses dans la vie autre que faire un projet avant la date limite pour avoir une note.
+                            <br>
+                            Alors j'ai bien voulu faire un stage.
+                            <br>
+                            <br>
+                            <br>
                         </p>
-                        <h2 class="mb-2 font-weight-bold">ytrack </h2>
+                        <h3 class="mb-2 font-weight-bold">La recherche du stage </h3>
                         <p class="m-0">
-                            C'est une plateforme qu'on utilise à Ynov pour apprendre un certain langage et ca passe avec un systéme de niveau ou on accumule de l'XP à chaque exercice fini et ca monte aussi en niveau de difficulté le plus loin on va les exercices devindront plus difficiles</p>
-
-                        <h2 class="mb-2 font-weight-bold">Les projets </h2>
+                            Cette periode était la plus difficile et stressante pour moi. J'étais réfusé pas mal de fois par des differentes société mais j'ai toujours pas abondonner.
+                            J'avais eu des assistances pendant mes recherches : 
+                            <br>
+                            <ul>
+                                <li>à l'école on avait des personnes qui nous mettent sur le bon chemin pour enfin trouver un stage. Il vérifient nos CV et nous disent quoi mettre dedans </li>
+                                <li>Des gens qui ont déjà une éxperience dans le domaine m'ont aidé </li>
+                            </ul>
+                        </p>
+                        <h3 class="mb-2 font-weight-bold">Trouvé un stage!! </h3>
                         <p class="m-0">
-                            à la fin de chaque module on doit réalisé un projet en suivant un cahier des charges </p>
-
-                        <h4 class="mb-2 font-weight-bold">exemples de projets </h4>
-                        <p class="m-0">
-                            lien github :  </p><a href="https://github.com/mohamedamine-tarhouni?tab=repositories">https://github.com/mohamedamine-tarhouni?tab=repositories</a>
+                            Après avoir postulé partout pendant presque une année je recois un appel téléphonique et c'était un recruteur qui voulait faire un entretien.
+                            <br>
+                            J'avais un peu de stresse mais après l'entretien c'etait cool et bien passé et on a signé le contrat du stage pour un poste développeur Front-End
+                        </p>
                     </div>
                 </div>
 

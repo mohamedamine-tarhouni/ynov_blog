@@ -9,7 +9,7 @@
                     <!-- <a class="btn btn-outline-primary mr-2" href="#"><i class="fab fa-twitter"></i></a> -->
                     <a class="btn btn-outline-primary mr-2" href="https://www.facebook.com/mohamedamine.tarhouni.16"><i class="fab fa-facebook-f"></i></a>
                     <a class="btn btn-outline-primary mr-2" href="https://www.linkedin.com/in/amine-tarhouni-26bb81211/"><i class="fab fa-linkedin-in"></i></a>
-                    <a class="btn btn-outline-primary mr-2" href="https://www.instagram.com/midouch_21/"><i class="fab fa-instagram"></i></a>
+                    <a class="btn btn-outline-primary mr-2" href="https://github.com/mohamedamine-tarhouni"><i class="fab fa-github"></i></a>
                 </div>
             </div>
             <div class="sidebar-icon d-flex flex-column h-100 justify-content-center text-right">

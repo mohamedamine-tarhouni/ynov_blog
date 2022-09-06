@@ -34,7 +34,7 @@
                         <div class="col-md-7">
                             <h3 class="mt-md-4 px-md-3 mb-2 py-2 bg-white font-weight-bold">Debut stage</h3>
                             <div class="d-flex mb-3">
-                                <small class="mr-2 text-muted"><i class="fa fa-calendar-alt"></i> Juin 2022</small>d
+                                <small class="mr-2 text-muted"><i class="fa fa-calendar-alt"></i> Juin 2022</small>
 
                             </div>
                             <p>
