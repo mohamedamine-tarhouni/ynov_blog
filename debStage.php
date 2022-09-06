@@ -45,7 +45,7 @@
                         <p class="m-0">
                             Après avoir postulé partout pendant presque une année je recois un appel téléphonique et c'était un recruteur qui voulait faire un entretien.
                             <br>
-                            J'avais un peu de stresse mais après l'entretien c'etait cool et bien passé et on a signé le contrat du stage pour un poste développeur Front-End
+                            J'avais un peu de stresse mais après l'entretien c'etait cool et bien passé et on a signé le contrat du stage pour un poste développeur Front-End chez <a href="https://www.decisys-consulting.com/">DECISYS CONSULTING</a>
                         </p>
                     </div>
                 </div>
