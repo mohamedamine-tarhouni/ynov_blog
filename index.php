@@ -68,17 +68,28 @@
 
                             </div>
                             <p>
-                                l'entreprise avec laquelle j'ai fait mon stage
+                               mes missions pendant le stage
                             </p>
                             <a class="btn btn-link p-0" href="tasks.php">Read More <i class="fa fa-angle-right"></i></a>
                         </div>
                     </div>
+                    <div class="row blog-item px-3 pb-5">
+                        <div class="col-md-5">
+                            <img class="img-fluid mb-4 mb-md-0" src="img\atmosphere.png" alt="Image">
+                        </div>
+                        <div class="col-md-7">
+                            <h3 class="mt-md-4 px-md-3 mb-2 py-2 bg-white font-weight-bold">Work and Share</h3>
+                            <div class="d-flex mb-3">
+
+                            </div>
+                            <p>
+                                l'atmosphere dans le travail
+                            </p>
+                            <a class="btn btn-link p-0" href="atmosphere.php">Read More <i class="fa fa-angle-right"></i></a>
+                        </div>
+                    </div>
                     
                 </div>
-                <!-- Blog List End -->
-                <!-- Blog List Start -->
-                
-                <!-- Blog List End -->
                 
                 
                 <?php require('includes/footer.php'); ?>

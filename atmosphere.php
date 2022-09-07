@@ -10,7 +10,7 @@
             <div class="container py-5 px-2 bg-primary">
                 <div class="row py-5 px-4">
                     <div class="col-sm-6 text-center text-md-left">
-                        <h1 class="mb-3 mb-md-0 text-white text-uppercase font-weight-bold">Mes missions</h1>
+                        <h1 class="mb-3 mb-md-0 text-white text-uppercase font-weight-bold">Work And Share</h1>
                     </div>
                 </div>
             </div>
@@ -21,35 +21,19 @@
             <div class="container bg-white pt-5">
                 <div class="row px-3 pb-5">
                     <div class="col-md-12">
-                        <img class="img-fluid float-left w-50 mr-4 mb-3" src="img\TODO.png" alt="Image" style="
+                        <img class="img-fluid float-left w-50 mr-4 mb-3" src="img\WS.webp" alt="Image" style="
     height: 63%;
 ">
                         <p class="m-0">
+                            Le rythme de stage était 3 jours en télétravail et 2 jours présentiel ou on fait des points ou des démos sur l'avancement du travail.<br>
+                            Les rencontres en présentiel sont fait dans un éspace appelé <a href="https://www.workandshare.com/nanterre/">Work And Share</a> à Nanterre Prefecture et dans cet espace y'avais tous ce qu'on avait besoin pour avancer,
+                            pas juste coté travail mais meme pour une pause café ;)<br>
+                            Et c'etait vraiment beau que ca te donne envie de travailler 
+                            <a href="https://www.workandshare.com/nanterre/">Savoir plus sur Work And Share</a>
 
-                            Pendant mon stage,j'étais un développeur front-end avec un stagiaire qui était un développeur back-end et on était accompagné par notre maitre de stage et on avait pas mal de travail à faire.
-                            <br>
-                            <br>
-                            <br>
-                            <br>
-                            <br>
-                            <br>
-                            <br>
 
                         </p>
                         </div>
-                        <h3 class="mb-4 font-weight-bold">Mes taches</h3>
-
-                        <ul>
-                                <li>Créer un site web en wordpress </li>
-                                <li>Créer des différentes pages</li>
-                                <li>Faire un bon interface dans tous les pages</li>
-                                <li>Faire le back du site en PHP</li>
-                                <li>Créer plusieurs formulaires dyamiques</li>
-                                <li>Bien inserer les données saisies dans une base de données</li>
-                                <li>Chaque formulaire a ses propres conditions que je dois faire</li>
-                                <li>Faire un script en python qui récupére les données d'hier qui se lance chaque jour</li>
-
-                            </ul>
                     
                 </div>
 

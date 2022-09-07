@@ -60,7 +60,7 @@
                     <div class="col-md-12">
                         <h3 class="mb-4 font-weight-bold">Mon CV</h3>
                         <p>cliquer sur le CV pour l'agrandir et avoir la possibilité de le télécharger</p>
-                        <a href="https://fisio.education/editeur/templates_pdf/5/5/3/8/MTg2Mzl8LSEtfHRlbXBsYXRl/5538_MTg2Mzl8LSEtfHRlbXBsYXRl_63174e5aa0f3d.pdf"><img src="img\CV.png" alt="canard" /></a>
+                        <a href="https://www.docdroid.net/Bbek2xH/alternance-web-opt-pdf" target="_blank"><img src="img\CV.png" alt="canard"  /></a>
                     </div>
                 </div>
             </div>
