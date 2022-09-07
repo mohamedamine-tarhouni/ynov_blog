@@ -27,6 +27,7 @@
                             <a class="btn btn-link p-0" href="Parcours.php">Read More <i class="fa fa-angle-right"></i></a>
                         </div>
                     </div>
+                    <!-- Debut Stage -->
                     <div class="row blog-item px-3 pb-5">
                         <div class="col-md-5">
                             <img class="img-fluid mb-4 mb-md-0" src="img\Business-deal-handshake.webp" alt="Image">
@@ -43,6 +44,8 @@
                             <a class="btn btn-link p-0" href="debStage.php">Read More <i class="fa fa-angle-right"></i></a>
                         </div>
                     </div>
+                    <!-- end Stage -->
+                    <!-- entreprise -->
                     <div class="row blog-item px-3 pb-5">
                         <div class="col-md-5">
                             <img class="img-fluid mb-4 mb-md-0" src="img\logo_DECISYS-240w (1).webp" alt="Image">
@@ -58,6 +61,8 @@
                             <a class="btn btn-link p-0" href="decisys_consulting.php">Read More <i class="fa fa-angle-right"></i></a>
                         </div>
                     </div>
+                    <!-- End entreprise -->
+                    <!-- Mes Missions -->
                     <div class="row blog-item px-3 pb-5">
                         <div class="col-md-5">
                             <img class="img-fluid mb-4 mb-md-0" src="img\Shared-Task-List-Featured.webp" alt="Image">
@@ -73,6 +78,8 @@
                             <a class="btn btn-link p-0" href="tasks.php">Read More <i class="fa fa-angle-right"></i></a>
                         </div>
                     </div>
+                    <!-- end missions -->
+                    <!-- WORK AND SHARE -->
                     <div class="row blog-item px-3 pb-5">
                         <div class="col-md-5">
                             <img class="img-fluid mb-4 mb-md-0" src="img\atmosphere.png" alt="Image">
@@ -88,9 +95,44 @@
                             <a class="btn btn-link p-0" href="atmosphere.php">Read More <i class="fa fa-angle-right"></i></a>
                         </div>
                     </div>
+                    <!--END WORK AND SHARE -->
+                    <!-- Difficultés -->
+                    <div class="row blog-item px-3 pb-5">
+                        <div class="col-md-5">
+                            <img class="img-fluid mb-4 mb-md-0" src="img\th.webp" alt="Image">
+                        </div>
+                        <div class="col-md-7">
+                            <h3 class="mt-md-4 px-md-3 mb-2 py-2 bg-white font-weight-bold">Difficultés</h3>
+                            <div class="d-flex mb-3">
+
+                            </div>
+                            <p>
+                                Les difficultés rencontrés dans le stage
+                            </p>
+                            <a class="btn btn-link p-0" href="difficultes.php">Read More <i class="fa fa-angle-right"></i></a>
+                        </div>
+                    </div>
+                    <!--END Difficultés -->
+                    <!-- fin de stage -->
+                    <div class="row blog-item px-3 pb-5">
+                        <div class="col-md-5">
+                            <img class="img-fluid mb-4 mb-md-0" src="img\th (2).webp" alt="Image">
+                        </div>
+                        <div class="col-md-7">
+                            <h3 class="mt-md-4 px-md-3 mb-2 py-2 bg-white font-weight-bold">Fin de stage</h3>
+                            <div class="d-flex mb-3">
+
+                            </div>
+                            <p>
+                                Ce que j'ai ressenti et l'expérience aquise
+                            </p>
+                            <a class="btn btn-link p-0" href="finStage.php">Read More <i class="fa fa-angle-right"></i></a>
+                        </div>
+                    </div>
+                    <!--END fin de stage -->
                     
                 </div>
-                
+                <!-- blog list end -->
                 
                 <?php require('includes/footer.php'); ?>
             </div>
